@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/usermanagement/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/usermanagement/static/js/main.fc6646c5.chunk.js",
+    "main.js.map": "/usermanagement/static/js/main.fc6646c5.chunk.js.map",
+    "runtime-main.js": "/usermanagement/static/js/runtime-main.e20bd1f5.js",
+    "runtime-main.js.map": "/usermanagement/static/js/runtime-main.e20bd1f5.js.map",
+    "static/css/2.a528b4dc.chunk.css": "/usermanagement/static/css/2.a528b4dc.chunk.css",
+    "static/js/2.6d4357d1.chunk.js": "/usermanagement/static/js/2.6d4357d1.chunk.js",
+    "static/js/2.6d4357d1.chunk.js.map": "/usermanagement/static/js/2.6d4357d1.chunk.js.map",
+    "index.html": "/usermanagement/index.html",
+    "precache-manifest.949000a9866dde4e8d99dfd31e831909.js": "/usermanagement/precache-manifest.949000a9866dde4e8d99dfd31e831909.js",
+    "service-worker.js": "/usermanagement/service-worker.js",
+    "static/css/2.a528b4dc.chunk.css.map": "/usermanagement/static/css/2.a528b4dc.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/usermanagement/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6d4357d1.chunk.js.LICENSE.txt": "/usermanagement/static/js/2.6d4357d1.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/usermanagement/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/usermanagement/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e20bd1f5.js",
+    "static/css/2.a528b4dc.chunk.css",
+    "static/js/2.6d4357d1.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.fc6646c5.chunk.js"
+  ]
+}
