@@ -9,7 +9,7 @@ import UserList from "./user-list/UserList";
 
 export default function App() {
     return (
-        <Router>
+        <Router basename="/usermanagement">
             <Switch>
                 <Route path="/" exact>
                     <Home />
