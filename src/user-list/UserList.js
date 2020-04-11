@@ -32,7 +32,6 @@ export default class users extends Component {
     componentDidMount() {
         HttpInterceptor.get('user-lists').then(res => {
             this.setState({ users: res.data.members })
-            console.log(this.state.users)
         })
 
     }
@@ -181,7 +180,7 @@ export default class users extends Component {
                                             {
                                                 this.state.activeDate.map((activeDate, i) =>
                                                     <li>
-                                                        {activeDate.start_time}
+                                                        {activeDate.start_time} - {activeDate.end_time}
                                                     </li>
                                                 )
 
