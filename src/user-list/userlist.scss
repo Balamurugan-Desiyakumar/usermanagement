@@ -1,0 +1,29 @@
+.navbar-brand{
+    color: #fff;
+    font-weight: 600;
+}
+.home-section{
+    margin-top:25px;
+    .alg-center{
+        display: flex;
+        margin: 0px auto;
+    } 
+}
+.action-icn i{
+    padding: 2px;
+    color: #4285f4;
+}
+.modal-userlist{
+    label{
+        display: block;
+        font-weight: 600;
+    }
+}
+
+@media(max-width:576px){
+    .dataTables_wrapper{
+        .row:nth-child(2){
+            overflow-x: scroll;
+        }
+    }
+}
